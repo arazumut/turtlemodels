@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kullanıcı-giriş-ekranı-py", "kullanıcı-giriş-ekranı-py.pyproj", "{CBA1465B-517A-407D-9BC7-2B161DCA8211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA1465B-517A-407D-9BC7-2B161DCA8211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA1465B-517A-407D-9BC7-2B161DCA8211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C96014-C13D-4EE5-A28E-1D948825CFE3}
+	EndGlobalSection
+EndGlobal
